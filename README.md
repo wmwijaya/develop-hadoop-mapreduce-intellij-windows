@@ -3,7 +3,7 @@ Develop Hadoop MapReduce application using Intellij IDEA on Windows 10
 
 Tutorial ini dimuat pada https://www.teknologi-bigdata.com/ website tentang teori dan contoh implementasi teknologi Big Data.
 
-Tutorial ini menggunakan Windows 10
+Tutorial ini menggunakan Windows 10.
 Software yang diperlukan:
 1. JDK 1.8; cara install ada di https://www.teknologi-bigdata.com/2019/01/install-hadoop-2-standalone-windows.html
 2. Hadoop-2.7.7; cara install ada di https://www.teknologi-bigdata.com/2019/01/install-hadoop-2-standalone-windows.html
